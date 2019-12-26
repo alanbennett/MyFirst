@@ -15,5 +15,6 @@ class Human(var weight:Float, var height:Float){
 
     fun hello(){
         println("Hello Kotlin")
+        println("good")
     }
 }
